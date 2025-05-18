@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Schuylerzheng
-- 👀 I’m interested in using github to save my code.
-- 🌱 I’m currently learning Unreal and c++
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 To reach me email ilikeraweggsverymuch@gmail.com
+- 👋 Hi, I’m 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
+- 📫 To reach me email 
